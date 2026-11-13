@@ -48,3 +48,9 @@ These exercises strengthened my understanding of:
 * Network traffic monitoring.
 * Cybersecurity threats and attack detection.
 * Practical SOC investigation techniques.
+
+# conclusion 
+
+* These practical exercises improved my understanding of network communication and how Wireshark can be used to investigate suspicious activity. They also strengthened my foundational skills in cybersecyrity.
+  
+  
